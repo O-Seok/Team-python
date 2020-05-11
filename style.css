@@ -1,5 +1,5 @@
 head{
-   
+   margin-top: 100em;
 }
 body{
    background: linear-gradient(#ffffff 50%, rgba(255,255,255,0) 0) 0 0,
@@ -8,5 +8,5 @@ body{
    background-size: 110px 200px;
    background-repeat: repeat-x;
    color: #FFFFFF;
-}s
+}
 
