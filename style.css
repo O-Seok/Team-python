@@ -1,0 +1,9 @@
+/* CSS 초기화 */
+
+* {
+  margin: 0;
+}
+html {
+  font-size: 10px;
+}
+
