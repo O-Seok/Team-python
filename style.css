@@ -4,6 +4,35 @@
   margin: 0;
 }
 html {
-  font-size: 10px;
+  font-size: 40px;
 }
+body{
+   background: linear-gradient(#ffffff 50%, rgba(255,255,255,0) 0) 0 0,
+   radial-gradient(circle closest-side, #FFFFFF 53%, rgba(255,255,255,0) 0) 0 0,
+   radial-gradient(circle closest-side, #FFFFFF 50%, rgba(255,255,255,0) 0) 55px 0 #48B;
+   background-size: 110px 200px;
+   background-repeat: repeat-x;
+   color: #FFFFFF;
+}
+.title-container {
+  width: 100%;
+  text-align: center;
+}
+.main-title {
+  color: black;
+}
+.Main-Container {
+  margin: 20% auto;
+  display: flex;
+  flex-flow: row wrap;
+  width: 1000px;
+  background-color: coral;
+}
+.Main-Container header {
+  margin: 10px 0;
+  width: 100%;
+}
+
+
+
 
